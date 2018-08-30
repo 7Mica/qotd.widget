@@ -36,9 +36,9 @@ style: """
   }
 
   img {
-    height: 8%;
+    height: 40px;
     opacity: 0.7;
-    width: 8%;
+    width: 40px;
   }
 
 
