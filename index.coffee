@@ -2,7 +2,7 @@ refreshFrequency: 4000*4000
 
 render: (output) -> """
     <div class="container">
-      <img src="qotd.widget.arrays/lib/quote.png"></img>
+      <img src="qotd.widget/lib/quote.png"></img>
       <p class="parrafo"></p><br>
     </div>
 """
