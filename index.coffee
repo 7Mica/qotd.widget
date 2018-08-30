@@ -1,4 +1,4 @@
-refreshFrequency: 4000*4000
+refreshFrequency: 300000
 
 render: (output) -> """
     <div class="container">
