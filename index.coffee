@@ -12,7 +12,7 @@ style: """
   .container {
 
     margin-top: 45%;
-    margin-left: 5%; 
+    margin-left: 10px; 
 
   }
   .parrafo {
@@ -24,10 +24,10 @@ style: """
     color: white;
     opacity: 0.8;
     background: rgba(0, 0, 0, 0.5);
-    padding-top: 2%;
-    padding-right: 2%;
-    padding-bottom: 2%;
-    padding-left: 2%;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
   }
 
   .author {
