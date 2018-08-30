@@ -6,4 +6,4 @@
 
 ## Instructions
 
-Replace authors and quotes from lib/loquendo.coffee.
+Replace authors and quotes from lib/loquendo.coffee. Then change number of quotes at index.coffee.
