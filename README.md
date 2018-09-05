@@ -8,12 +8,12 @@
 
 Replace authors array and quotes array with your favorite authors and quotes from:
 ```
-lib/loquendo.coffee. 
+lib/loquendo.coffee
 ```
 Then change number of your quotes at:
 
 ```
-index.coffee.
+index.coffee
 ```
 
 Line 49: 
