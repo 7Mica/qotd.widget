@@ -16,7 +16,7 @@ Then change number of your quotes at:
 index.coffee.
 ```
 
-Line 47: 
+Line 49: 
 ```
 max = 7 #Number of quotes
 ```
