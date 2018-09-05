@@ -1,9 +1,22 @@
-# qotd
+# Inspirational Quotes without Internet
 
 ## Description 
 
-Übersicht widget. Show your favorite quotes without internet.
+Übersicht widget. Show your favorite inspirational quotes without internet.
 
 ## Instructions
 
-Replace authors and quotes from lib/loquendo.coffee. Then change number of quotes at index.coffee.
+Replace authors array and quotes array with your favorire authors and quotes from:
+```
+lib/loquendo.coffee. 
+```
+Then change number of your quotes at:
+
+```
+index.coffee.
+```
+
+Line 47: 
+```
+max = 7 #Number of quotes
+```
