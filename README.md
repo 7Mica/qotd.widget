@@ -6,7 +6,7 @@
 
 ## Instructions
 
-Replace authors array and quotes array with your favorire authors and quotes from:
+Replace authors array and quotes array with your favorite authors and quotes from:
 ```
 lib/loquendo.coffee. 
 ```
